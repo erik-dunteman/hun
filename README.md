@@ -2,7 +2,7 @@
 ![hun (1)](https://github.com/erik-dunteman/hun/assets/44653944/70ce2948-f24b-4ae1-b922-a40a3b6aceb8)
 
 
-A blazingly fast typescript compiler
+A _blazingly_ fast typescript compiler
 
 Installation
 ```bash
