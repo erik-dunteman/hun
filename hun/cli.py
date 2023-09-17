@@ -23,7 +23,6 @@ def tsc(file_path):
 
     # extract js code from response
     js_code = response.choices[0]["message"]["content"].split("```")[1]
-    # remove first line
     js_code = js_code.split("\n", 1)[1]
 
     # save as js file in a ./js directory
