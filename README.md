@@ -1,5 +1,5 @@
 # hun
-![hun](https://github.com/erik-dunteman/hun/assets/44653944/4badcb18-089e-4206-b9d0-2f3d0d1738a5)
+![hun (1)](https://github.com/erik-dunteman/hun/assets/44653944/70ce2948-f24b-4ae1-b922-a40a3b6aceb8)
 
 
 A blazingly fast typescript compiler
