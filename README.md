@@ -1,5 +1,6 @@
 # hun
-![hun]([https://ed48f23436.png](https://github.com/erik-dunteman/hun/blob/main/static/hun.png))
+![hun](https://github.com/erik-dunteman/hun/assets/44653944/4badcb18-089e-4206-b9d0-2f3d0d1738a5)
+
 
 A blazingly fast typescript compiler
 
